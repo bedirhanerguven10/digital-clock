@@ -4,5 +4,5 @@
 
 * A digital clock application was made using the set interval method.
 
-[Click here to reach my project 🏹](https://bedirhanerguven10.github.io/digital-clock/)
+[Click here to reach my project 🏹](https://bedirhanerguven10.github.io/digital-clock/)<br><br>
 ![](https://github.com/bedirhanerguven10/digital-clock/blob/master/clock.gif)
