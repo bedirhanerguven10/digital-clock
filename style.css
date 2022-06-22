@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@600&family=Major+Mono+Display&family=Orbitron&family=Play&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+	transition: 0.50s;
+}
+
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(https://thumbs.gfycat.com/HealthyDirectLeopard-max-1mb.gif);
+	background-size: cover;
+	display: flex;
+	height: 100vh;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+}
+
+p{
+	font-size: 15rem;
+	letter-spacing: 3rem;
+	font-weight: 700;
+}
+
+
+
+@media(max-width: 1000px){
+	p{
+		font-size: 10rem;
+		letter-spacing: 0;
+	}
+}
